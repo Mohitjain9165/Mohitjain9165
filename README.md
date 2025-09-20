@@ -7,7 +7,7 @@
 ### 💡 About Me  
 - 🔭 I’m currently working on **Machine Learning & AI Projects**  
 - 🌱 I’m currently learning **Deep Learning, NLP & LLM**  
-- 💬 Ask me about **Python, Machine Learning, Data Science, SQL, Django**  
+- 💬 Ask me about **Python, Machine Learning, Data Science, SQL**  
 - 📫 Reach me at **mohitjain78050@gmail.com**  
 
 ---
